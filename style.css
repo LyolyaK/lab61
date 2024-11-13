@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+}
+.main-title{
+    color: red;
+}
+.nav-list li:nth-child(1) a {
+    color: green; 
+}
+
+.nav-list li:nth-child(2) a {
+    color: blue; 
+}
+
+.nav-list li:nth-child(3) a {
+    color: yellow; 
+}
+#first-post h2{
+    color: orange;
+}
+#first-post p{
+    color: orange;
+}
+.post:nth-child(2) h2 {
+    color: violet; 
+}
+.post:nth-child(2) p {
+    color: violet; 
+}
+.widget:nth-child(1) h3 {
+    color:pink;
+}
+.color-list li:nth-child(1){
+    color: gray;
+}
+.color-list li:nth-child(2){
+    color: brown;
+}
+.color-list li:nth-child(3){
+    color: black;
+}
+.important-widget {
+    color: rgb(100, 11, 11);
+}
+input[type="text"][placeholder="Белый"] {
+    color: white;
+    background-color: rgb(225, 105, 105); 
+}
+.submit-btn {
+    color: white; 
+    background-color: black; 
+}
